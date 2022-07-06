@@ -1,0 +1,186 @@
+body {
+    font-family: 'Hind', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header {
+    text-align: center;
+    position: relative;
+    top: 15%;
+}
+
+.header h1 {
+    color: white;
+}
+
+.header h6 {
+    color: darkgray;
+}
+
+.donation {
+    text-align: center;
+}
+
+.donation h1 {
+    color: black;
+}
+
+.donation h6 {
+    color: darkgray;
+}
+
+.top-banner {
+    background-image: url(donate-image/donation6.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+}
+
+.link-button {
+    text-align: center;
+    background-color: chocolate;
+    background-image: -moz-linear-gradient(red, orange);
+    color: white;
+    font-weight: 100;
+    padding: 10px 20px;
+    border-radius: 3px;
+    font-size: 12px;
+}
+
+.flexible {
+    display: flex;
+    text-align: center;
+    margin-left: 440px;
+}
+
+.half-width {
+    width: 10%;
+}
+
+#border-tk {
+    border: 3px solid chocolate;
+    background-color: lightpink;
+    color: chocolate;
+    border-radius: 5px;
+    padding: 10%;
+}
+
+.border {
+    border: 3px solid white;
+    background-color: cornsilk;
+    border-radius: 5px;
+    padding: 10%;
+}
+
+.amount {
+    text-align: center;
+    position: relative;
+    top: 15%;
+}
+
+.amount h6 {
+    color: darkgray;
+}
+
+.donate {
+    margin-top: 90px;
+}
+
+.flexible-plan {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: left;
+    border-radius: 20% padding-left: 20px;
+    pad
+}
+
+#food {
+    background-color: lightblue;
+    border: 10px solid white;
+}
+
+#shelter {
+    background-color: lightpink;
+    border: 10px solid white;
+}
+
+#education {
+    background-color: moccasin;
+    border: 10px solid white;
+}
+
+
+.width {
+    width: 100%;
+}
+
+.contribute {
+    display: flex;
+}
+
+.contri {
+    display: flex;
+}
+
+.contribution {
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 15%;
+    padding-top: 10%;
+}
+
+.contribution img {
+    width: 130%
+}
+
+.contri-edu {
+    display: flex;
+}
+
+.get-updates {
+    text-align: center;
+}
+
+.get-updates h1 {
+    color: black;
+}
+
+.get-updates h6 {
+    color: darkgray;
+}
+
+.white {
+    text-align: left;
+    background-color: white;
+    background-image: -moz-linear-gradient(red, orange);
+    color: darkgrey;
+    font-weight: 100;
+    padding: 10px 70px;
+    border-radius: 3px;
+    font-size: 12px;
+    margin-left: 22%;
+}
+
+.link-box {
+    background-color: moccasin;
+    border: 10px solid white;
+    padding: 50px 2px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    padding: 0% 10%;
+}
+
+footer h3 {
+    color: chocolate;
+}
+
+footer h6 {
+    color: white
+}
